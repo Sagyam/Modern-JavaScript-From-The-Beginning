@@ -18,7 +18,7 @@ Taught by [Brad Traversy](https://www.traversymedia.com/)
 ## Course Content
 
 - [ ] [Intro & Getting Started]()
-  - [x] Using the Console
+  - [x] [Using the Console](./02%20JavaScript%20Language%20Fundamentals/2_1_project_files/js_sandbox/index.html)
 - [ ] [JavaScript Language Fundamentals]()
 - [ ] [DOM Manipulation & Events]()
 - [ ] [DOM Projects]()

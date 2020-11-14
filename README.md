@@ -18,6 +18,7 @@ Taught by [Brad Traversy](https://www.traversymedia.com/)
 ## Course Content
 
 - [ ] [Intro & Getting Started]()
+  - [x] Using the Console
 - [ ] [JavaScript Language Fundamentals]()
 - [ ] [DOM Manipulation & Events]()
 - [ ] [DOM Projects]()

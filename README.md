@@ -1,4 +1,9 @@
 # [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/)
+[![GitHub license](https://img.shields.io/github/license/Sagyam/Modern-JavaScript-From-The-Beginning?style=for-the-badge)](https://github.com/Sagyam/Modern-JavaScript-From-The-Beginning/blob/main/LICENSE)
+![Lines of code](https://img.shields.io/tokei/lines/github/Sagyam/Modern-JavaScript-From-The-Beginning?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sagyam/Modern-JavaScript-From-The-Beginning?style=for-the-badge)
+![GitHub search hit counter](https://img.shields.io/github/search/Sagyam/Modern-JavaScript-From-The-Beginning/JavaScript?style=for-the-badge)
+
 
 ![Image](./01%20Intro%20%20Getting%20Started/Modern-JavaScript-From-The-Beginning.jpg)
 

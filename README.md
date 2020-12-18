@@ -38,13 +38,9 @@ Taught by [Brad Traversy](https://www.traversymedia.com/)
 
 - [ ] [Task list]() - DOM manipulation and local storage.
 - [ ] [Loan calculator]() - DOM manipulation.
-- [ ] [Book list]() - OOP using function constructors / prototypes. 
+- [ ] [Book list]() - OOP using function constructors / prototypes.
 - [ ] [Regex form]() - Simple form with 3 examples of custom regular expressions validation.
-  
 - [ ] [Chuck Norris joke generator]() - fetch and display Chuck Norris jokes from the [ICNDB JSON API]() using XMLHttpRequest.
-  
 - [ ] [EasyHTTP library]() - custom wrapper library for CRUD HTTP requests. Different versions with XMLHttpRequest, fetch API, promises and async/await.
-  
 - [ ] [GitHub finder]() - fetch and display a GH user's profile and repos from the [GitHub REST API]() using fetch, async/await and promises.
-  
 - [ ] [Tracalorie]() - full CRUD app using Module pattern and ES6 syntax.
